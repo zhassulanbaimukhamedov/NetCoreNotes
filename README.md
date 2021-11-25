@@ -17,6 +17,8 @@
 </li><li>IoC предлагает инверсировать управление от Вас к водителю
 </li><li>Dependency Injection это один из этих шаблонов проектирования для инверсирования
 </li><li>Dependency Inversion Principle это проектирование на уровне интерфейсов, а не реализации
+</li><li>Интерфейс это описание класса, как книжка-инструкция в коробке нового телефона
+</li><li>Класс это описание объекта
 </li><li>Есть еще другие шаблоны как, Service Locator, Factory, Abstract Factory, Template Method, Strategy
 </li><li>Набор этих принципов хранятся в IoC-контейнерах
 </li><li>IoC-контейнер это framework как, Unity, Ninject, StructureMap, Autofac
